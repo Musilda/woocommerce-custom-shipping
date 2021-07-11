@@ -1,3 +1,5 @@
+<?php
+
 /**
  * @wordpress-plugin
  * Plugin Name:       Custom shipping
